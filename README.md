@@ -1,21 +1,10 @@
-## Django-Blog
+## Daily Blog
 Django blog is a beginner friendly blog application. This project illustrate Django Class Based views, How to use django models with custom
 model manager, how to use custom template tags, django Forms and model form, how to send mail with django, how to add rss syndication,
 and generate sitemap and unit test for model, view, form and template tags and also how to seed database with Factory Boy, Faker and management commands.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-## Installing
-```
-open terminal and type
-git clone https://github.com/devmahmud/DjangoBlog.git
-```
-
-#### or simply download using the url below
-```
-https://github.com/devmahmud/DjangoBlog.git
-```
 
 ## Requirements
 ```
@@ -92,8 +81,8 @@ or you can simple run `flake8`
 
 ## Author
 ```
-  Mahmudul alam
-  Email: expelmahmud@gmail.com
+  Harsh Soni
+  Email: harsh66287@gmail.com
 ```
 
 <div align="center">
